@@ -1,40 +1,72 @@
-# Hi there, I'm Kritin 👋
+# 👋 Hey there, I'm Kritin Kaul
 
-I'm a passionate computer science student interested in software engineering, data analysis, and product management. I'm currently seeking exciting internship opportunities where I can contribute and grow.
+I'm a **Computer Science student** with a strong interest in **Software Engineering**, **Data Analysis**, and **Product Thinking**. I enjoy solving real-world problems through code and building thoughtful, user-centric solutions.
 
-## 🚀 Key Skills
+Outside of tech, I’m a creative at heart — into movies, storytelling, and digital creation. I often find that these passions inspire my approach to software: design with empathy, build with purpose.
 
-- **Frontend Development**: HTML, CSS, JavaScript, React
-- **Data Analysis**: Python, data visualization (Chart.js, Power BI)
-- **APIs & Web Integration**: Experienced with TMDB, Yahoo Finance APIs
-- **Tools**: VS Code, Git, Excel, Power BI
-- **Project Management**: Agile methodologies, Scrum, User-Centric Design
-
-## 🌱 What I'm Currently Learning
-
-- Advanced JavaScript (React, API integration)
-- Python for data analysis (Pandas, NumPy)
-- Cloud Computing fundamentals (AWS basics)
-
-## 💻 Featured Projects
-
-- **Real-Time Investment News Aggregator**: Integrated Yahoo Finance API with NLP sentiment analysis and visualized insights using Chart.js dashboards.
-- **WhereTo Stream Movies**: A frontend application using TMDB API to help users quickly find streaming platforms for any movie.
-- **IT Downtime Notification Automation**: Developed an automated alert system using Google Apps Script, reducing manual notification efforts by 90%. Deployed on Google Cloud Functions for real-time IT downtime tracking, integrated with Gmail and Google Sheets for optimized operational workflows.
-
-## 📫 Get in Touch!
-
-I'm always open to connecting and discussing technology, internships, and innovative ideas. Feel free to reach out:
-- **LinkedIn:** www.linkedin.com/in/kritinkaul
-- **Email:** kritinkaul@gmail.com
+🎯 I'm actively looking for **internship opportunities** where I can contribute meaningfully and continue growing alongside a talented team.
 
 ---
 
-Feel free to explore my repositories to see more of my work!
+## 🚀 Skills at a Glance
+
+**Frontend:**  
+`HTML`, `CSS`, `JavaScript`, `React`, `Tailwind CSS`
+
+**Backend & APIs:**  
+`Node.js`, `Express.js`, `Firebase`, `GraphQL`, `REST APIs`
+
+**Data & Visualization:**  
+`Python`, `Pandas`, `NumPy`, `Power BI`, `Excel`, `Chart.js`
+
+**Workflow & Tools:**  
+`Git & GitHub`, `VS Code`, `Jira`, `Agile`, `Scrum`
+
+**Cloud & Automation:**  
+`AWS (Basics)`, `Google Cloud Functions`, `Google Apps Script`
 
 ---
 
-*This README gives recruiters a clear, concise overview of my skills, projects, and current interests. Explore my repositories to learn more!*
+## 🌱 Currently Exploring
+
+- Advanced **JavaScript** & frontend performance techniques  
+- **Python** for data insights and automation  
+- **Cloud computing** concepts (AWS, GCP)  
+- **System design** and scalable architecture fundamentals
+
+---
+
+## 💻 Highlighted Projects
+
+### 💡 [**Artist Purse**](https://artistpulse-gilt.vercel.app/)  
+A platform designed to help users discover and support emerging creators. Focused on user flow and clean UI/UX using React and Firebase.
+
+### 🎬 **MovieInfoWeb**  
+Built with TMDB API, this tool helps users quickly find which platforms stream their favorite films and gives a detailed information on the selected movie.
+
+### 📊 **Real-Time Investment News Dashboard**  
+Aggregates live financial news using Yahoo Finance API + NLP sentiment analysis. Visualizes insights with Chart.js.
+
+### ⚠️ **IT Downtime Notification System**  
+Automates operational alerts using Google Apps Script and Gmail. Reduced manual workload by over 90% and improved team responsiveness.
+
+---
+
+## 🧠 A Bit More About Me
+
+- 🎥 Big movie buff — I love understanding storytelling and user experience through different mediums  
+- 🧩 Enjoy tinkering with APIs and turning ideas into prototypes  
+- 🎧 Occasionally experiment with digital audio (FL Studio) just for fun  
+- 💬 Passionate about learning through collaboration, feedback, and building cool stuff
+
+---
+
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kritinkaul)  
+- 📬 Email: kritinkaul@gmail.com  
+
+Thanks for checking out my GitHub — feel free to explore my work or reach out if you're working on something interesting!
 
 
 
