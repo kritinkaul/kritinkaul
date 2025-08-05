@@ -10,27 +10,31 @@ Outside of tech, I’m a creative at heart — into movies, storytelling, and di
 
 ## 🚀 Skills at a Glance
 
-💻 Frontend Development
-Languages & Frameworks: HTML, CSS, JavaScript, React
-Styling & UI Libraries: Tailwind CSS, Bootstrap, Styled Components
-Tools: Vite, Redux Toolkit, React Router, Framer Motion
-🔧 Backend Development & APIs
-Languages & Frameworks: Node.js, Express.js
-APIs: RESTful APIs, GraphQL
-Authentication & Realtime: Firebase Auth, Firestore, WebSockets
-📊 Data, Analytics & Visualization
-Languages & Libraries: Python, Pandas, NumPy
-Business Intelligence: Power BI, Excel
-Visualization Tools: Chart.js, Matplotlib, Seaborn
-☁️ Cloud, Automation & DevOps
-Cloud Platforms: Google Cloud (Functions, Firestore), AWS (EC2, S3 – Basics)
-Scripting & Automation: Google Apps Script, Cron Jobs
-CI/CD & Deployment: GitHub Actions, Vercel, Netlify
-🛠 Workflow, Tools & Methodologies
-Version Control: Git, GitHub
-Dev Tools: VS Code, Postman
-Project Management: Jira, Notion
-Development Methodologies: Agile, Scrum, Kanban
+### 💻 Frontend Development  
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React  
+- **Styling & UI Libraries:** Tailwind CSS, Bootstrap, Styled Components  
+- **Tools:** Vite, Redux Toolkit, React Router, Framer Motion  
+
+### 🔧 Backend Development & APIs  
+- **Languages & Frameworks:** Node.js, Express.js  
+- **APIs:** RESTful APIs, GraphQL  
+- **Authentication & Realtime:** Firebase Auth, Firestore, WebSockets  
+
+### 📊 Data, Analytics & Visualization  
+- **Languages & Libraries:** Python, Pandas, NumPy  
+- **Business Intelligence:** Power BI, Excel  
+- **Visualization Tools:** Chart.js, Matplotlib, Seaborn  
+
+### ☁️ Cloud, Automation & DevOps  
+- **Cloud Platforms:** Google Cloud (Functions, Firestore), AWS (EC2, S3 – Basics)  
+- **Scripting & Automation:** Google Apps Script, Cron Jobs  
+- **CI/CD & Deployment:** GitHub Actions, Vercel, Netlify  
+
+### 🛠 Workflow, Tools & Methodologies  
+- **Version Control:** Git, GitHub  
+- **Dev Tools:** VS Code, Postman  
+- **Project Management:** Jira, Notion  
+- **Development Methodologies:** Agile, Scrum, Kanban
 ---
 
 ## 🌱 Currently Exploring
