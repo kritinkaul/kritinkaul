@@ -10,21 +10,27 @@ Outside of tech, I’m a creative at heart — into movies, storytelling, and di
 
 ## 🚀 Skills at a Glance
 
-**Frontend:**  
-`HTML`, `CSS`, `JavaScript`, `React`, `Tailwind CSS`
-
-**Backend & APIs:**  
-`Node.js`, `Express.js`, `Firebase`, `GraphQL`, `REST APIs`
-
-**Data & Visualization:**  
-`Python`, `Pandas`, `NumPy`, `Power BI`, `Excel`, `Chart.js`
-
-**Workflow & Tools:**  
-`Git & GitHub`, `VS Code`, `Jira`, `Agile`, `Scrum`
-
-**Cloud & Automation:**  
-`AWS (Basics)`, `Google Cloud Functions`, `Google Apps Script`
-
+💻 Frontend Development
+Languages & Frameworks: HTML, CSS, JavaScript, React
+Styling & UI Libraries: Tailwind CSS, Bootstrap, Styled Components
+Tools: Vite, Redux Toolkit, React Router, Framer Motion
+🔧 Backend Development & APIs
+Languages & Frameworks: Node.js, Express.js
+APIs: RESTful APIs, GraphQL
+Authentication & Realtime: Firebase Auth, Firestore, WebSockets
+📊 Data, Analytics & Visualization
+Languages & Libraries: Python, Pandas, NumPy
+Business Intelligence: Power BI, Excel
+Visualization Tools: Chart.js, Matplotlib, Seaborn
+☁️ Cloud, Automation & DevOps
+Cloud Platforms: Google Cloud (Functions, Firestore), AWS (EC2, S3 – Basics)
+Scripting & Automation: Google Apps Script, Cron Jobs
+CI/CD & Deployment: GitHub Actions, Vercel, Netlify
+🛠 Workflow, Tools & Methodologies
+Version Control: Git, GitHub
+Dev Tools: VS Code, Postman
+Project Management: Jira, Notion
+Development Methodologies: Agile, Scrum, Kanban
 ---
 
 ## 🌱 Currently Exploring
@@ -38,7 +44,7 @@ Outside of tech, I’m a creative at heart — into movies, storytelling, and di
 
 ## 💻 Highlighted Projects
 
-### 💡 [**Artist Purse**](https://artistpulse-gilt.vercel.app/)  
+### 💡 [**Artist Pulse**](https://artistpulse-gilt.vercel.app/)  
 A platform designed to help users discover and support emerging creators. Focused on user flow and clean UI/UX using React and Firebase.
 
 ### 🎬 **MovieInfoWeb**  
