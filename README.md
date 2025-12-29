@@ -1,12 +1,26 @@
-# 👋 Hey there, I'm Kritin Kaul
+👋 Hey, I’m Kritin
 
-I'm a **Computer Science student** with a strong interest in **Software Engineering**, **Data Analysis**, and **Product Thinking**. I enjoy solving real-world problems through code and building thoughtful, user-centric solutions.
+I’m a Computer Science student who enjoys building software that actually does something useful.
+My interests sit at the intersection of Software Engineering, Data Analysis, and Product Thinking — turning ideas into clean, user-centric solutions.
 
-Outside of tech, I’m a creative at heart — into movies, storytelling, and digital creation. I often find that these passions inspire my approach to software: design with empathy, build with purpose.
+I like solving real-world problems with code, thinking through why something should exist before jumping into how to build it.
 
-🎯 I'm actively looking for **internship opportunities** where I can contribute meaningfully and continue growing alongside a talented team.
+🧠 How I Think About Software
 
----
+Outside of tech, I’m a creative at heart — into movies, storytelling, and digital creation.
+That perspective sneaks into my engineering work more than I realized:
+
+design with empathy • build with purpose • ship things people enjoy using
+
+🎯 What I’m Looking For
+
+I’m actively exploring internship opportunities where I can:
+
+contribute meaningfully (not just “shadow”)
+
+learn from strong engineers
+
+work on products that people genuinely rely on
 
 ## 🚀 Skills at a Glance
 
