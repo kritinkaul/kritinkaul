@@ -1,18 +1,18 @@
-##👋 Hey, I’m Kritin**
+## 👋 Hey, I’m Kritin
 
 I’m a Computer Science student who enjoys building software that actually does something useful.
 My interests sit at the intersection of Software Engineering, Data Analysis, and Product Thinking — turning ideas into clean, user-centric solutions.
 
 I like solving real-world problems with code, thinking through why something should exist before jumping into how to build it.
 
-##🧠 How I Think About Software**
+## 🧠 How I Think About Software
 
 Outside of tech, I’m a creative at heart — into movies, storytelling, and digital creation.
 That perspective sneaks into my engineering work more than I realized:
 
-design with empathy • build with purpose • ship things people enjoy using
+**design with empathy • build with purpose • ship things people enjoy using**
 
-##🎯 What I’m Looking For
+## 🎯 What I’m Looking For
 
 I’m actively exploring internship opportunities where I can:
 
